@@ -29,6 +29,18 @@ Install dependencies
   npm install
 ```
 
+Run Migrations
+
+```bash
+php artisan migrate
+```
+
+Import DB
+
+```bash
+php artisan db:seed
+```
+
 Start the server
 
 ```bash
